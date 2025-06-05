@@ -17,7 +17,7 @@
 <img width="667" alt="백엔드" src="https://github.com/user-attachments/assets/1f9fdbeb-9ee7-4f0c-bc80-d41a899b7207" />
 
 ## 인프라
-<img width="637" alt="스크린샷 2025-06-05 오전 11 14 56" src="https://github.com/user-attachments/assets/d6f21cee-f450-41cf-ad77-e5c97f377e22" />
+<img width="667" alt="스크린샷 2025-06-05 오전 11 14 56" src="https://github.com/user-attachments/assets/d6f21cee-f450-41cf-ad77-e5c97f377e22" />
 
 
 # 🧱 아키텍처
