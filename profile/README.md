@@ -17,7 +17,7 @@
 ![image](https://github.com/user-attachments/assets/bdbf927e-c3cc-4f24-a9aa-32b72a3772b5)
 
 ## 인프라
-![image](https://github.com/user-attachments/assets/d6c572ad-7b1c-4c19-bb59-dcbba29b5a4a)
+![image](https://github.com/user-attachments/assets/06742ad3-1c17-4be0-bb22-dd09fb9880ab)
 
 # 🧱 아키텍처
 ![image](https://github.com/user-attachments/assets/9e96514e-f1f7-44fd-a802-408f16c68d0c)
