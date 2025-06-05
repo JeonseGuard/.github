@@ -19,7 +19,7 @@
 ### 인프라
 ![image](https://github.com/user-attachments/assets/06742ad3-1c17-4be0-bb22-dd09fb9880ab)
 ## 🧱 아키텍처
-![image](https://github.com/user-attachments/assets/65117d62-5348-4d2c-9eb5-185d6eca09e8)
+![image](https://github.com/user-attachments/assets/6f851812-90ea-421c-b65a-6152b58f6de7)
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> 팀원
