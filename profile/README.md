@@ -2,7 +2,7 @@
 <img width="400" alt="JeonseGuard" src="https://github.com/user-attachments/assets/af57259f-a748-49ad-a061-5a328328ddfe">
 </div>
 
-# 전세가드(JeonseGuard) 소개
+# 프로젝트 소개
 전세사기 피해를 예방하자! 예방하자!
 
 ## 🛠️ 기술 스택
@@ -19,7 +19,7 @@
 ### 인프라
 ![image](https://github.com/user-attachments/assets/06742ad3-1c17-4be0-bb22-dd09fb9880ab)
 ## 🧱 아키텍처
-![image](https://github.com/user-attachments/assets/4cd45e17-d14b-4e0e-8f44-d9454662c399)
+![image](https://github.com/user-attachments/assets/3c8d4be1-73b3-4aa3-92f9-1e55caf68d3a)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> 팀원
 |[김수진](https://github.com/sujeengim)|[이고은](https://github.com/g00u)|[성대열](https://github.com/Daeye0l)|[최민우](https://github.com/chaiminwoo0223)|
