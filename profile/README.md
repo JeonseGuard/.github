@@ -8,7 +8,7 @@
 # 🛠️ 기술 스택
 
 ## 프론트엔드
-<img width="637" alt="프론트엔드" src="https://github.com/user-attachments/assets/56165466-e1a2-4a21-91b6-eb1b7cdd43c8" />
+![image](https://github.com/user-attachments/assets/56165466-e1a2-4a21-91b6-eb1b7cdd43c8)
 
 ## AI
 <img width="637" alt="AI" src="https://github.com/user-attachments/assets/116b76b0-7664-4a43-b008-159957719639" />
