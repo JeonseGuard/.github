@@ -22,7 +22,7 @@
 ## 🧱 아키텍처
 <img src="https://github.com/user-attachments/assets/9e96514e-f1f7-44fd-a802-408f16c68d0c" width="2000"/>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> 팀원
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> 팀원
 |[김수진](https://github.com/sujeengim)|[이고은](https://github.com/g00u)|[성대열](https://github.com/Daeye0l)|[최민우](https://github.com/chaiminwoo0223)|
 |:---:|:---:|:---:|:---:|
 |<img src="https://github.com/sujeengim.png" width=400px>|<img src="https://github.com/g00u.png" width=400px>|<img src="https://github.com/Daeye0l.png" width=400px>|<img src="https://github.com/chaiminwoo0223.png" width=400px>|
