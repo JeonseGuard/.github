@@ -1,5 +1,5 @@
 <div align="middle">
-<img width="800" alt="JeonseGuard" src="https://github.com/user-attachments/assets/af57259f-a748-49ad-a061-5a328328ddfe">
+<img width="400" alt="JeonseGuard" src="https://github.com/user-attachments/assets/af57259f-a748-49ad-a061-5a328328ddfe">
 </div>
 
 # 전세가드(JeonseGuard) 소개
