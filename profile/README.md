@@ -8,17 +8,16 @@
 # 🛠️ 기술 스택
 
 ## 프론트엔드
-<img width="667" alt="프론트엔드" src="https://github.com/user-attachments/assets/8402e609-bf0a-4725-9459-571916ef4518" />
+<img width="637" alt="프론트엔드" src="https://github.com/user-attachments/assets/56165466-e1a2-4a21-91b6-eb1b7cdd43c8" />
 
 ## AI
-<img width="667" alt="AI" src="https://github.com/user-attachments/assets/07bf2f04-e178-4cd7-9575-deea0df670c6" />
+<img width="637" alt="AI" src="https://github.com/user-attachments/assets/116b76b0-7664-4a43-b008-159957719639" />
 
 ## 백엔드
-<img width="667" alt="백엔드" src="https://github.com/user-attachments/assets/1f9fdbeb-9ee7-4f0c-bc80-d41a899b7207" />
+<img width="637" alt="백엔드" src="https://github.com/user-attachments/assets/bdbf927e-c3cc-4f24-a9aa-32b72a3772b5" />
 
 ## 인프라
-<img width="667" alt="스크린샷 2025-06-05 오전 11 14 56" src="https://github.com/user-attachments/assets/d6f21cee-f450-41cf-ad77-e5c97f377e22" />
-
+<img width="637" alt="인프라" src="https://github.com/user-attachments/assets/d6c572ad-7b1c-4c19-bb59-dcbba29b5a4a" />
 
 # 🧱 아키텍처
 <img width="913" alt="아키텍처" src="https://github.com/user-attachments/assets/c930f27f-acce-4c09-b3d3-4bea6e4ed2f3" />
