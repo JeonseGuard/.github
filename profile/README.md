@@ -20,7 +20,7 @@
 ![image](https://github.com/user-attachments/assets/06742ad3-1c17-4be0-bb22-dd09fb9880ab)
 
 # 🧱 아키텍처
-![image](https://github.com/user-attachments/assets/9e96514e-f1f7-44fd-a802-408f16c68d0c)
+<img src="https://github.com/user-attachments/assets/9e96514e-f1f7-44fd-a802-408f16c68d0c" width="1000"/>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> 팀원
 |[김수진](https://github.com/sujeengim)|[이고은](https://github.com/g00u)|[성대열](https://github.com/Daeye0l)|[최민우](https://github.com/chaiminwoo0223)|
