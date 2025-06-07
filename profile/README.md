@@ -18,7 +18,7 @@
 우리는 누구나 집을 구하는 과정에서 불안함을 느끼지 않아도 되는 사회를 꿈꿉니다. 전문가가 아니더라도, 복잡한 법률 문서와 행정 데이터를 손쉽게 이해하고, 스스로 의심하고 검토할 수 있는 도구를 제공하고 싶었습니다. 전세가드는 단지 기술을 적용한 서비스가 아니라, **누군가의 삶을 지켜내는 데 실질적인 역할을 하는 도구**가 되기를 희망합니다. 우리의 작은 시도가, 한 사람의 큰 피해를 막을 수 있기를 진심으로 희망합니다.
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> 주요 기능
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="45" height="45" /> 주요 기능
 
 ### OCR 계약서 분석
 사용자가 전세 계약서를 업로드하면, **Tesseract OCR**을 통해 주소, 면적, 보증금 등 핵심 정보를 자동 추출합니다. 추출된 정보는 국토교통부 건축물대장 API와 내부 실거래가 데이터와 비교되어 검증됩니다. 검증 결과는 **계약서 기반 분석 문서**로 제공되며, 사기 위험 여부를 명확하게 판단할 수 있습니다.
