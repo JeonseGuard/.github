@@ -24,7 +24,7 @@
 ### 신고 및 예방 게시판
 이상 징후가 있는 계약서를 **사용자가 직접 신고하고 공유할 수 있는 커뮤니티 게시판**을 제공합니다. 사기 예방 정보와 주의사항을 자유롭게 게시 및 열람할 수 있습니다. 사용자 간 정보 공유를 통해 **실질적인 사기 예방 문화**를 만들어갑니다.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/T-Rex.png" alt="T-Rex" width="25" height="25" /> 기술 스택
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" alt="T-Rex" width="25" height="25" /> 기술 스택
 
 ### 프론트엔드
 ![image](https://github.com/user-attachments/assets/56165466-e1a2-4a21-91b6-eb1b7cdd43c8)
