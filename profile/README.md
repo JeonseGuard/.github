@@ -14,9 +14,23 @@
 </div>
 
 ## 🛠️ 주요 기능
-### 1. OCR 계약서 분석
-### 2. 전세사기 뉴스 기사 조회
-### 3. 신고 및 예방 게시판
+### OCR 계약서 분석
+<div align="justify">
+사용자가 전세 계약서를 업로드하면, **Tesseract OCR**을 통해 주소, 면적, 보증금 등 핵심 정보를 자동 추출합니다.
+추출된 정보는 국토교통부 건축물대장 API와 내부 실거래가 데이터와 비교되어 검증됩니다.
+검증 결과는 **계약서 기반 분석 문서**로 제공되며, 사기 위험 여부를 명확하게 판단할 수 있습니다.
+</div>
+### 전세사기 뉴스 기사 조회
+<div align="justify">
+**네이버 뉴스 검색 API**를 활용해 지역 또는 키워드 기반의 최신 전세사기 뉴스를 자동 수집합니다.
+사용자는 특정 지역의 사기 발생 사례를 빠르게 탐색할 수 있습니다.
+**실시간 뉴스 기반 정보**를 통해 위험 지역에 대한 인식을 높입니다.
+### 신고 및 예방 게시판
+이상 징후가 있는 계약서를 **사용자가 직접 신고하고 공유할 수 있는 커뮤니티 게시판**을 제공합니다.
+사기 예방 정보와 주의사항을 자유롭게 게시 및 열람할 수 있습니다.
+사용자 간 정보 공유를 통해 **실질적인 사기 예방 문화**를 만들어갑니다.
+
+
 
 ## ⚙️ 기술 스택
 
@@ -32,7 +46,8 @@
 ### 인프라
 ![image](https://github.com/user-attachments/assets/06742ad3-1c17-4be0-bb22-dd09fb9880ab)
 ## 🧱 아키텍처
-![image](https://github.com/user-attachments/assets/50b723ab-4467-41de-adbd-39182c658366)
+![image](https://github.com/user-attachments/assets/9b312dee-03d7-4b5e-97b0-e4a8dd5320fa)
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> 팀원
 |[김수진](https://github.com/sujeengim)|[이고은](https://github.com/g00u)|[성대열](https://github.com/Daeye0l)|[최민우](https://github.com/chaiminwoo0223)|
