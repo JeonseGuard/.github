@@ -1,5 +1,10 @@
 <div align="middle">
 <img width="400" alt="JeonseGuard" src="https://github.com/user-attachments/assets/af57259f-a748-49ad-a061-5a328328ddfe">
+
+[![Live: JeonseGuard](https://img.shields.io/badge/Live-JeonseGuard-1E3A8A?style=flat-square&logo=vercel&logoColor=white)](https://jeonse-guard-frontend.vercel.app/)
+[![Swagger Docs](https://img.shields.io/badge/Swagger-API%20Docs-0F766E?style=flat-square&logo=swagger&logoColor=white)](https://jeonseguard.duckdns.org/swagger-ui/index.html#/)
+[![Release](https://img.shields.io/badge/Release-v5.0-FACC15?style=flat-square&logo=github&logoColor=white)](https://github.com/JeonseGuard/JeonseGuard-Backend)
+  
 </div>
 
 # 프로젝트 소개
