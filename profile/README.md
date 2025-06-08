@@ -1,20 +1,10 @@
 <div align="middle">
 <img alt="JeonseGuard" src="https://github.com/user-attachments/assets/0ba3ba18-f649-488c-814a-74e9c2400537">
 
-<p align="middle">
-  <a href="https://jeonse-guard-frontend.vercel.app/">
-    <img src="https://img.shields.io/badge/Live-JeonseGuard-1E3A8A?style=flat-square&logo=vercel&logoColor=white" height="28">
-  </a>
-  <a href="https://jeonseguard.duckdns.org/swagger-ui/index.html#/">
-    <img src="https://img.shields.io/badge/Swagger-API%20Docs-0F766E?style=flat-square&logo=swagger&logoColor=white" height="28">
-  </a>
-  <a href="https://github.com/JeonseGuard/JeonseGuard-Backend/releases">
-    <img src="https://img.shields.io/badge/Release-v5.0-FACC15?style=flat-square&logo=github&logoColor=white" height="28">
-  </a>
-  <a href="https://github.com/JeonseGuard/JeonseGuard-Backend/blob/develop/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-4F46E5?style=flat-square&logo=open-source-initiative&logoColor=white" height="28">
-  </a>
-</p>
+[![Live: JeonseGuard](https://img.shields.io/badge/Live-JeonseGuard-1E3A8A?style=flat-square&logo=vercel&logoColor=white)](https://jeonse-guard-frontend.vercel.app/)
+[![Swagger Docs](https://img.shields.io/badge/Swagger-API%20Docs-0F766E?style=flat-square&logo=swagger&logoColor=white)](https://jeonseguard.duckdns.org/swagger-ui/index.html#/)
+[![Release](https://img.shields.io/badge/Release-v5.0-FACC15?style=flat-square&logo=github&logoColor=white)](https://github.com/JeonseGuard/JeonseGuard-Backend/releases)
+[![License](https://img.shields.io/badge/License-MIT-4F46E5?style=flat-square&logo=open-source-initiative&logoColor=white)](https://github.com/JeonseGuard/JeonseGuard-Backend/blob/develop/LICENSE)
 
 </div>
 
