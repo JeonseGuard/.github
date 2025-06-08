@@ -1,7 +1,7 @@
 <div align="middle">
 <img alt="JeonseGuard" src="https://github.com/user-attachments/assets/0ba3ba18-f649-488c-814a-74e9c2400537">
 
-<p align="left">
+<p align="middle">
   <a href="https://jeonse-guard-frontend.vercel.app/">
     <img src="https://img.shields.io/badge/Live-JeonseGuard-1E3A8A?style=flat-square&logo=vercel&logoColor=white" height="28">
   </a>
