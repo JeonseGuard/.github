@@ -1,5 +1,5 @@
 <div align="middle">
-<img width="800" alt="JeonseGuard" src="https://github.com/user-attachments/assets/0ba3ba18-f649-488c-814a-74e9c2400537">
+<img width="700" alt="JeonseGuard" src="https://github.com/user-attachments/assets/0ba3ba18-f649-488c-814a-74e9c2400537">
 
 [![Live: JeonseGuard](https://img.shields.io/badge/Live-JeonseGuard-1E3A8A?style=flat-square&logo=vercel&logoColor=white)](https://jeonse-guard-frontend.vercel.app/)
 [![Swagger Docs](https://img.shields.io/badge/Swagger-API%20Docs-0F766E?style=flat-square&logo=swagger&logoColor=white)](https://jeonseguard.duckdns.org/swagger-ui/index.html#/)
@@ -9,7 +9,7 @@
 
 # 프로젝트 소개
 <div align="justify">
-<b>전세가드(JeonseGuard)</b>는 전세 계약서를 기반으로 전세사기를 사전에 예방하기 위해 만들어진 인공지능 서비스입니다. 전세 계약서에 담긴 내용을 자동으로 분석하고, 공공 데이터를 기준으로 위험 요소를 확인함으로써, 사용자 스스로 계약의 신뢰도를 판단할 수 있도록 돕는 것이 목표입니다.
+<b>JeonseGuard(전세가드)</b>는 전세 계약서를 기반으로 전세사기를 사전에 예방하기 위해 만들어진 인공지능 서비스입니다. 전세 계약서에 담긴 내용을 자동으로 분석하고, 공공 데이터를 기준으로 위험 요소를 확인함으로써, 사용자 스스로 계약의 신뢰도를 판단할 수 있도록 돕는 것이 목표입니다.
 
 계약서를 작성하는 과정에서 가장 중요한 것은, 그 문서가 실제 부동산 정보와 일치하는지를 검증하는 일입니다. 하지만 일반 사용자 입장에서 계약서에 적힌 지번, 면적, 보증금 등의 정보가 사실인지 확인하는 것은 매우 어렵습니다. 전세사기 피해자 대부분은 계약서를 자세히 읽지 않아서가 아니라, **'의심조차 하지 못했기 때문에'** 피해를 입었습니다. 그만큼 정보에 접근하기 어렵고, 확인 절차가 사용자 친화적이지 않았다는 뜻입니다.
 
